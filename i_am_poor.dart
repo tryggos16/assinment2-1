@@ -11,7 +11,7 @@ void main() {
         ),
         body: const Center(
           child:  Image(
-            image: AssetImage('images/no money for you!-2.png'),
+            image: AssetImage('images/no money for you!.png'),
           ),
         ),
       ),
